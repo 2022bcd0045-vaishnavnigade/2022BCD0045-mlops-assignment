@@ -1,0 +1,17 @@
+{
+    "name": "Vaishnav Nigade",
+    "roll_no": "2022BCD0045",
+    "dataset_path": "data/winequality-red-v2.csv",
+    "model_type": "random_forest",
+    "features": [
+        "fixed acidity",
+        "volatile acidity",
+        "citric acid",
+        "residual sugar",
+        "chlorides",
+        "sulphates",
+        "alcohol"
+    ],
+    "accuracy": 0.7770833333333333,
+    "f1_score": 0.7897838899803536
+}

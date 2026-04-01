@@ -9,3 +9,4 @@ dvc[s3]
 boto3
 pyyaml
 python-multipart
+pydantic
