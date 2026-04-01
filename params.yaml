@@ -1,0 +1,19 @@
+dataset_path: data/winequality.csv
+model_type: random_forest
+max_depth: 5
+n_estimators: 100
+test_size: 0.2
+random_state: 42
+
+features:
+  - fixed acidity
+  - volatile acidity
+  - citric acid
+  - residual sugar
+  - chlorides
+  - free sulfur dioxide
+  - total sulfur dioxide
+  - density
+  - pH
+  - sulphates
+  - alcohol
