@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://2022bcd0045-mlops-dvc-vaishnav
